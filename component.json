@@ -1,0 +1,14 @@
+{
+  "name": "bindPoly",
+  "repo": "redbadger/bindPoly",
+  "description": "A polyfill for Function.prototype.bind",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
